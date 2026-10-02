@@ -126,7 +126,7 @@ The `Dashboard` component acts as the single source of truth, while child compon
 ## ▶️ How to Run Locally
 
 ```bash
-git clone https://github.com/DurgasiShankarRao/blog-admin-dashboard.git
+git clone https://github.com/DurgasiSankarRao/blog-admin-dashboard.git
 cd blog-admin-dashboard
 npm install
 npm run dev
